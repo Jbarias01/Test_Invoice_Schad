@@ -1,0 +1,17 @@
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\Test_Invoice_Schad.Infrastructure.dll.config
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\Test_Invoice_Schad.Infrastructure.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\Test_Invoice_Schad.Infrastructure.pdb
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\Test_Invoice_Schad.Core.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\Test_Invoice_Schad.Core.pdb
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\Test_Invoice_Schad.Core.dll.config
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\obj\Debug\Test_Invoice_Schad.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\obj\Debug\Test_Invoice_Schad.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\obj\Debug\Test_Invoice_Schad.Infrastructure.csproj.CopyComplete
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\obj\Debug\Test_Invoice_Schad.Infrastructure.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\obj\Debug\Test_Invoice_Schad.Infrastructure.pdb
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\AutoMapper.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Infrastructure\bin\Debug\AutoMapper.xml

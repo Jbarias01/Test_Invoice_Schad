@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\Test_Invoice_Schad.Core.dll.config
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\Test_Invoice_Schad.Core.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\Test_Invoice_Schad.Core.pdb
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.Migrations.Init.resources
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.csproj.CopyComplete
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.dll
+C:\Users\user\source\repos\Test_Invoice_Schad\Test_Invoice_Schad.Core\obj\Debug\Test_Invoice_Schad.Core.pdb
